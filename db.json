@@ -47,7 +47,7 @@
       "dateAdded": "2020-01-22T00:05:44.755Z"
     }
   ],
-  "categories": {
+  "categories": [
     {
       "id": 1,
       "title": "side dish"
@@ -60,5 +60,5 @@
       "id": 3,
       "title": "dessert"
     }
-  }
+  ]
 }
