@@ -1,11 +1,64 @@
 {
-  "posts": [
+  "recipes": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Classic Stuffed Mushrooms",
+      "categoryId": 1,
+      "main ingredient": "mushrooms",
+      "ingredients": [
+        "walnuts",
+        "herbs",
+        "garlic",
+        "chopped mushroom stems",
+        "breadcrumbs",
+        "grated parmesean"
+      ],
+      "directions": "Separate the stems from the mushroom caps and chop them. Process with herbs and breadcrumbs and stuff the mushroom caps with the mixture. Sprinkle with parmesan and bake until the cheese starts to brown and the mushroom caps release some of their water. ",
+      "votes": 0,
+      "userId": 1,
+      "dateAdded": "2020-01-22T00:00:44.620Z"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Lavar",
+      "lastname": "Cole",
+      "dateAdded": "2020-01-22T00:05:44.755Z"
+    },
+    {
+      "id": 2,
+      "firstname": "Kaiisha",
+      "lastname": "Oliver",
+      "dateAdded": "2020-01-22T00:05:44.755Z"
+    },
+    {
+      "id": 3,
+      "firstname": "Jon",
+      "lastname": "Bodnar",
+      "dateAdded": "2020-01-22T00:05:44.755Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "These mushrooms are delicious.",
+      "userId": 3,
+      "dateAdded": "2020-01-22T00:05:44.755Z"
+    }
+  ],
+  "categories": {
+    {
+      "id": 1,
+      "title": "side dish"
+    },
+    {
+      "id": 2,
+      "title": "entree"
+    },
+    {
+      "id": 3,
+      "title": "dessert"
+    }
   }
 }
