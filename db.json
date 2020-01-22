@@ -13,7 +13,7 @@
         "breadcrumbs",
         "grated parmesean"
       ],
-      "directions": "Separate the stems from the mushroom caps and chop them. Process with herbs and breadcrumbs and stuff the mushroom caps with the mixture. Sprinkle with parmesan and bake until the cheese starts to brown and the mushroom caps release some of their water. ",
+      "directions": "Separate the stems from the mushroom caps and chop them. Process with herbs and breadcrumbs and stuff the mushroom caps with the mixture. Sprinkle with parmesan and bake until the cheese starts to brown and the mushroom caps release some of their water.",
       "votes": 0,
       "userId": 1,
       "dateAdded": "2020-01-22T00:00:44.620Z"
@@ -44,6 +44,12 @@
       "id": 1,
       "text": "These mushrooms are delicious.",
       "userId": 3,
+      "dateAdded": "2020-01-22T00:05:44.755Z"
+    },
+    {
+      "id": 2,
+      "text": "The other comment sure is right. These are really good mushrooms.",
+      "userId": 2,
       "dateAdded": "2020-01-22T00:05:44.755Z"
     }
   ],
