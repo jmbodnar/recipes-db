@@ -4,7 +4,7 @@
       "_id": 1,
       "title": "Classic Stuffed Mushrooms",
       "categoryId": 1,
-      "main ingredient": "mushrooms",
+      "mainIngredient": "mushrooms",
       "ingredients": [
         "walnuts",
         "herbs",
@@ -22,7 +22,7 @@
       "_id": 2,
       "title": "Frozen Chocolate Spaghetti Peppermint Balls",
       "categoryId": "2",
-      "main ingredient": "tomato sauce",
+      "mainIngredient": "tomato sauce",
       "ingredients": [
         "tomato sauce",
         "noodles",
