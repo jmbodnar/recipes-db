@@ -5,14 +5,7 @@
       "title": "Classic Stuffed Mushrooms",
       "categoryId": 1,
       "mainIngredient": "mushrooms",
-      "ingredients": [
-        "walnuts",
-        "herbs",
-        "garlic",
-        "chopped mushroom stems",
-        "breadcrumbs",
-        "grated parmesean"
-      ],
+      "ingredients": "walnuts, herbs, garlic, chopped mushroom stems, breadcrumbs, grated parmesean",
       "directions": "Separate the stems from the mushroom caps and chop them. Process with herbs and breadcrumbs and stuff the mushroom caps with the mixture. Sprinkle with parmesan and bake until the cheese starts to brown and the mushroom caps release some of their water.",
       "likes": 2,
       "userId": 1,
@@ -23,13 +16,7 @@
       "title": "Frozen Chocolate Spaghetti Peppermint Balls",
       "categoryId": "2",
       "mainIngredient": "tomato sauce",
-      "ingredients": [
-        "tomato sauce",
-        "noodles",
-        "magic shell",
-        "peppermint sticks",
-        "rosemary"
-      ],
+      "ingredients": "tomato sauce noodles, magic shell, peppermint sticks, rosemary",
       "directions": "Make the spaghetti. Freese the spaghetti. Pour magic shell over the frozen spaghetti and stick peppermint sticks in it. Sprinkle rosemary over the spaghetti. Serve with garlic bread and red wine. Enjoy!",
       "likes": 2,
       "userId": 3,
